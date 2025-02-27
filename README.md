@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Melinda, a first-year Software Engineering major at Univeristy of California, Irvine!
 
 <!--
 **melindaahli/melindaahli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
