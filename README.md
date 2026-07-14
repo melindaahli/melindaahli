@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Melinda, a second-year Software Engineering major at University of California, Irvine!
+I'm Melinda, a third-year Software Engineering major and Health Informatics minor at University of California, Irvine!
 
 <!--
 **melindaahli/melindaahli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
