@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Melinda, a third-year Software Engineering major and Health Informatics minor at University of California, Irvine!
 
-I'm currently exploring the intersection of technology, public health, and data management, & am interested in building software that makes healthcare systems more efficient, accessible, and data-driven.
+Right now, I'm exploring the intersection of technology, public health, and data management, & am interested in building software that makes healthcare systems more efficient, accessible, and data-driven.
 
 - 🚀 Currently: Project Lead on the WICS Attendance Dashboard
 - 🌱 Participant in the Break Through Tech AI Program with Cornell Tech
